@@ -11,9 +11,7 @@ wrighthc1@appstate.edu
 Appalachian State University
 
 Boone, North Carolina, 28608, USA
-
 #### Education
-<!--- Add education here!--->
 * High School Diploma 2017, The Epiphany School of Global Studies
 * B.S. Biology with a concentration in Ecology, Evolution, and Environmental Biology 2021, Appalachian State University
 #### Employment
@@ -23,7 +21,7 @@ Boone, North Carolina, 28608, USA
   * Retail - customer service and cash register transactions
 * Greene Wilson Law Firm, 2017
   * Law Intern - shadowed lawyers in civil and criminal courts
-####Field Work Skills
+#### Field Work Skills
 * Population Estimation: mark and recapture, enumeration, and Serber sampling with Elimina snails.
 * Forestry metrics: population estimation, DBH, invasive identification and estimation, and species identification.
 * Coral Reef Health Survey: assessing coral health based on amount of species present and approximate amount of bleaching on the Great Barrier Reef
