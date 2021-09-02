@@ -21,6 +21,7 @@ Boone, North Carolina, 28608, USA
   * Retail - customer service and cash register transactions
 * Greene Wilson Law Firm, 2017
   * Law Intern - shadowed lawyers in civil and criminal courts
+
 #### Field Work Skills
 * Population Estimation: mark and recapture, enumeration, and Serber sampling with Elimina snails.
 * Forestry metrics: population estimation, DBH, invasive identification and estimation, and species identification.
