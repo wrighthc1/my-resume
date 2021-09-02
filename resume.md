@@ -1,11 +1,15 @@
 ![College of Arts and Sciences](https://biology.appstate.edu/sites/biology.appstate.edu/files/casbutton.jpg)
 ## Hannah Wright
 (252)671-7558
+
 wrighthc1@appstate.edu
+
 844 Arnett Hollow Rd., Vilas, NC, 28692
 #### Undergraduate Student
 [Department of Biology](https://biology.appstate.edu/)
-Appalachian State University
+
+Appalachian State University,
+
 Boone, North Carolina, 28608, USA
 
 #### Education
@@ -25,4 +29,4 @@ Boone, North Carolina, 28608, USA
 * Coral Reef Health Survey: assessing coral health based on amount of species present and approximate amount of bleaching on the Great Barrier Reef
 * Line transects: Calculating and measuring canopy cover, ground cover (fungi, bryophytes, bush, shrub, herbs, vines, and trees) in a variety of different forest types.
 * Shore transects: Calculating percentage of species present in lower, middle, and high quadrats.
-* Fruit and water sampling: picking fruit and collecting water samples at berry farms to be tested in agricultural labs for pesticides and E. coli presence. 
+* Fruit and water sampling: picking fruit and collecting water samples at berry farms to be tested in agricultural labs for pesticides and E. coli presence.
