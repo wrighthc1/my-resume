@@ -4,7 +4,7 @@
 wrighthc1@appstate.edu
 844 Arnett Hollow Rd., Vilas, NC, 28692
 #### Undergraduate Student
-Department of Biology
+[Department of Biology](https://biology.appstate.edu/)
 Appalachian State University
 Boone, North Carolina, 28608, USA
 
@@ -16,6 +16,13 @@ Boone, North Carolina, 28608, USA
 * Driscoll's, 2021
   * Food Safety - taking water and fruit samples and analyzing lab results
 * Tweetsie Railroad, 2018
-  * Retail - customer service, 
+  * Retail - customer service and cash register transactions
 * Greene Wilson Law Firm, 2017
-#### Research Interests
+  * Law Intern - shadowed lawyers in civil and criminal courts
+#### Field Work Skills
+* Population Estimation: mark and recapture, enumeration, and Serber sampling with Elimina snails.
+* Forestry metrics: population estimation, DBH, invasive identification and estimation, and species identification.
+* Coral Reef Health Survey: assessing coral health based on amount of species present and approximate amount of bleaching on the Great Barrier Reef
+* Line transects: Calculating and measuring canopy cover, ground cover (fungi, bryophytes, bush, shrub, herbs, vines, and trees) in a variety of different forest types.
+* Shore transects: Calculating percentage of species present in lower, middle, and high quadrats.
+* Fruit and water sampling: picking fruit and collecting water samples at berry farms to be tested in agricultural labs for pesticides and E. coli presence. 
